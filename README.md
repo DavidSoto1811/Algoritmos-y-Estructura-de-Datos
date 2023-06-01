@@ -1,2 +1,2 @@
-# Algoritmos-y-Estructura-de-Datos
-algoritmos de programacion en C++
+# Algoritmos y Estructura de Datos
+Algoritmos de programacion en C++.
